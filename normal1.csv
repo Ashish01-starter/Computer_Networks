@@ -1,0 +1,5 @@
+"No.","Time","Source","Destination","Protocol","Length","Info","Response time"
+"24","4.581535600","142.251.222.174","192.168.5.50","ICMP","74","Echo (ping) reply    id=0x0001, seq=629/29954, ttl=116 (request in 23)","6.3929"
+"31","5.592557500","142.251.222.174","192.168.5.50","ICMP","74","Echo (ping) reply    id=0x0001, seq=630/30210, ttl=116 (request in 30)","7.6744"
+"45","6.616245200","142.251.222.174","192.168.5.50","ICMP","74","Echo (ping) reply    id=0x0001, seq=631/30466, ttl=116 (request in 44)","8.4042"
+"59","7.629924300","142.251.222.174","192.168.5.50","ICMP","74","Echo (ping) reply    id=0x0001, seq=632/30722, ttl=116 (request in 58)","6.4032"
